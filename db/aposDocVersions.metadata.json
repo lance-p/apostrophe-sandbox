@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"apostrophesandbox.aposDocVersions"},{"v":1,"key":{"docId":1,"createdAt":-1},"name":"docId_1_createdAt_-1","ns":"apostrophesandbox.aposDocVersions"}]}
